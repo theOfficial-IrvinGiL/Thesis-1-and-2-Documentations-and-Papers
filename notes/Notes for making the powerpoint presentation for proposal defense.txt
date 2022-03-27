@@ -1,0 +1,21 @@
+A. Tittle of the study:
+
+
+B. Proponents:
+
+
+
+C. Introduction:
+
+
+
+D. Significance and Objectives of the Study
+
+
+
+E: Methodology
+	1. Methods
+	2. System Design
+	3. Architectural Design of the System
+	4. Procedural Design
+	5. Hardware Compatibility and Configurations

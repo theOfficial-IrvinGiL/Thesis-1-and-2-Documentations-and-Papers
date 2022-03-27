@@ -1,0 +1,5 @@
+Meter unit commits and changes:
+
+1st commit: due to the nature and characteristics of eeprom memory,
+the stored data will be retrieved from the eeprom and stored in
+an array. And from there scanning functionalities can be made.
